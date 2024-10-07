@@ -22,6 +22,10 @@ This simulation was developed as part of the **Bioinformatics course at Bar-Ilan
   - `S1`, `S2`, `S3`, `S4`: Different skepticism levels among individuals in the population.
 - **Graphical Representation**: The simulation provides a visual display of how rumors spread over time, with different colors representing the state of individuals (believers, non-believers, and rumor spreaders).
 
+## Differences Between `q2.exe` and `main.exe`
+- `main.exe`: Runs the standard version of the rumor spread simulation using the default parameters or user-provided inputs. It focuses on modeling the behavior of the rumor spread without additional optimizations or enhancements.
+- `q2.exe`: Offers an extended version of the simulation, possibly with optimizations or additional strategies implemented to explore different aspects of the rumor spread. This version may include adjustments to better balance the rumor spread based on parameters like skepticism and population density, offering a more nuanced simulation outcome.
+
 ## Getting Started
 
 ### Prerequisites
