@@ -57,6 +57,10 @@ This simulation was developed as part of the **Bioinformatics course at Bar-Ilan
   - **Red**: Individuals who have spread the rumor.
   - **Blue**: Individuals who have heard but do not spread the rumor.
   - **White**: Empty cells or individuals not part of the simulation.
+    
+    ![image](https://github.com/user-attachments/assets/ec808ea0-d781-4e77-9d75-cc785d395a9b)
+
+
 
 ## Conclusion
 This project helps to understand the dynamics of information spread within a population. By adjusting parameters, users can observe how different levels of skepticism and population densities impact the propagation of a rumor.
