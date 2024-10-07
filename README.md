@@ -49,11 +49,17 @@ This simulation was developed as part of the **Bioinformatics course at Bar-Ilan
 - `S1`, `S2`, `S3`, `S4`: Percentages representing different groups with varying levels of skepticism.
 - `generation`: Represents the total number of generations the simulation runs for, with a default of `55`.
 
+  ![image](https://github.com/user-attachments/assets/bd230ace-969c-4619-b369-9f903b392f37)
+
+
 ## Results Analysis
 
 - The simulation provides a statistical summary of the spread of rumors across multiple runs.
 - Key outputs include the percentage of believers after the spread and the spread's reach within the population.
 - The simulation results show variations based on changes in `P` and `L`, indicating how these factors influence the spread dynamics.
+
+ ![for gif1](https://github.com/user-attachments/assets/79056e38-4bc6-4532-9658-3b63d42adf95)
+
 
 ## Visual Representation
 
